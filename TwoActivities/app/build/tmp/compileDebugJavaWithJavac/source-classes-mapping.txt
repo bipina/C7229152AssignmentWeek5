@@ -1,0 +1,6 @@
+me/mahakagg/twoactivities/MainActivity.java
+ me.mahakagg.twoactivities.MainActivity
+me/mahakagg/twoactivities/BuildConfig.java
+ me.mahakagg.twoactivities.BuildConfig
+me/mahakagg/twoactivities/SecondActivity.java
+ me.mahakagg.twoactivities.SecondActivity
