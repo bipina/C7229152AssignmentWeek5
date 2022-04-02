@@ -64,4 +64,5 @@ public class SecondActivity extends AppCompatActivity {
         super.onDestroy();
         Log.d(LOG_TAG, "onDestroy");
     }
+
 }
